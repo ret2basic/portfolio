@@ -15,3 +15,4 @@ This repo showcases my work experience as a smart contract auditor. It includes 
 
 - Finished Secureum bootcamp
 - Completed Ethernauts and Damn Vulnerable DeFi
+- Running a weekly practice audit wargame: [retwargames](https://github.com/ret2basic/ret2wargames)
