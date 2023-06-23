@@ -6,12 +6,12 @@ This repo showcases my work experience as a smart contract auditor. It includes 
 
 - [Code4rena Juicebox Buyback Delegate contest]() - R.E.A.C.H Black Panda
 
-# June 2023
+## June 2023
 
 - [Sherlock Perennial contest]() - R.E.A.C.H Black Panda
 - [Code4rena Real Wagmi contest]() - R.E.A.C.H Black Panda
 
-# Achievements
+## Achievements
 
 - Finished Secureum bootcamp
 - Completed Ethernauts and Damn Vulnerable DeFi
