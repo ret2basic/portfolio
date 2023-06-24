@@ -1,15 +1,28 @@
 # Code4rena Juicebox Buyback Delegate
 
-# Table of content
+# Severity Classification
 
-- [M-1] Swap leftovers ETH are locked in the `JBXBuybackDelegate`
-- [M-2] Uniswap swap may be forced to revert, and mint tokens unexpectedly
-- [M-3] Partial loss of user value as a result of lack of transaction deadline implementation
-- [L-1] Unnecessary computation when _data.preferClaimedTokens=false
-- [L-2] No sanity checks in the constructor can lead to issues or redeployments
-- [L-3] Inconsistency between documentation and code around ERC20 compliance
-- [L-4] Address of tokens in pool can be different than the ones passed to the constructor
-- [L-5] Unnecessary calculation of _nonReservedTokenInContract
+| Letter | Name | Description |
+|:--:|:-------:|:-------:|
+| H  | High risk | Loss of funds |
+| M |  Medium risk | Unexpected behavior |
+| L  | Low risk | Potentially a risk |
+
+| Total Found Issues | 8 |
+|:--:|:--:|
+
+# Findings Summary
+
+| ID     | Title                                                                                 | Severity |
+| ------ | -------------------------------------------------------------------------------       | -------- |
+| [M-01] | Swap leftovers ETH are locked in the `JBXBuybackDelegate`                             | Medium |
+| [M-02] | Uniswap swap may be forced to revert, and mint tokens unexpectedly                    | Medium   |
+| [M-03] | Partial loss of user value as a result of lack of transaction deadline implementation | Medium   |
+| [L-01] | Unnecessary computation when _data.preferClaimedTokens=false                          | Low      |
+| [L-02] | No sanity checks in the constructor can lead to issues or redeployments               | Low      |
+| [L-03] | Inconsistency between documentation and code around ERC20 compliance                  | Low      |
+| [L-04] | Address of tokens in pool can be different than the ones passed to the constructor    | Low      |
+| [L-05] | Unnecessary calculation of _nonReservedTokenInContract                                | Low      |
 
 # [M-1] Swap leftovers ETH are locked in the `JBXBuybackDelegate`
 
