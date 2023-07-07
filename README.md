@@ -9,7 +9,7 @@ This repo showcases my work experience as a web3 security research / smart contr
 ## June 2023
 
 - [Sherlock Perennial contest]() - Team R.E.A.C.H Black Panda
-- [Code4rena Real Wagmi contest]() - Team R.E.A.C.H Black Panda
+- [Sherlock RealWagmi contest]() - Team R.E.A.C.H Black Panda
 - [Guardian Audit PariFi contest]() - Team onlyOwners
 
 ## Achievements
