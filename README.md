@@ -8,11 +8,13 @@ This repo showcases my work experience as a smart contract auditor. It includes 
 
 ## June 2023
 
-- [Sherlock Perennial contest]() - R.E.A.C.H Black Panda
-- [Code4rena Real Wagmi contest]() - R.E.A.C.H Black Panda
+- [Sherlock Perennial contest]() - Team R.E.A.C.H Black Panda
+- [Code4rena Real Wagmi contest]() - Team R.E.A.C.H Black Panda
+- [Guardian Audit PariFi contest]() - Team onlyOwners
 
 ## Achievements
 
-- Finished Secureum bootcamp
-- Completed Ethernauts and Damn Vulnerable DeFi
-- Running a weekly practice audit wargame: [retwargames](https://github.com/ret2basic/ret2wargames)
+- Finished **Secureum bootcamp**
+  - **Secureum RACE 19**: ranked 15th
+- Completed **Ethernauts** and **Damn Vulnerable DeFi**
+- Running a weekly lecture in OpenSense discord server as an OpenSense Curator: [retwargames](https://github.com/ret2basic/ret2wargames)
