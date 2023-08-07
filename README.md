@@ -19,13 +19,14 @@ This repo showcases my work experience as a web3 security research / smart contr
 - Finished **Secureum bootcamp** and actively competing in **Secureum RACEs**:
   - Secureum RACE 20: ranked 2nd
   - Secureum RACE 19: ranked 15th
-- Completed prestigious CTFs:
-  - Ethernaut
-  - Capture the Ether
+- Completed prestigious **CTFs**:
+  - Flashbot MEV-Share CTF, all 10 challenges solved
+  - QuillCTF MetaToken Contest, 2nd place
+  - Ethernaut, all challenges solved
   - Damn Vulnerable DeFi
-  - QuillCTF
+  - Capture the Ether, all challenges solved
 - Running a weekly lecture series at OpenSense discord server: [retwargames](https://github.com/ret2basic/ret2wargames).
-- Developing a fully functional MEV bot.
+- Developing MEV bot.
 - Developing Uniswap V3 clone.
 
 ## Web2
