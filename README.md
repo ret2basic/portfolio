@@ -21,7 +21,7 @@ This repo showcases my work experience as a web3 security research / smart contr
   - Secureum RACE 19: ranked 15th
 - Completed prestigious **CTFs**:
   - Flashbot MEV-Share CTF, all 10 challenges solved
-  - QuillCTF MetaToken Contest, 2nd place
+  - QuillCTF MetaToken Contest, 3nd place
   - Ethernaut, all challenges solved
   - Damn Vulnerable DeFi
   - Capture the Ether, all challenges solved
