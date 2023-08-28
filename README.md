@@ -4,13 +4,20 @@ This repo showcases my work experience as a web3 security research / smart contr
 
 ## May 2023
 
-- [Code4rena Juicebox Buyback Delegate contest](https://code4rena.com/contests/2022-07-juicebox-v2-contest#top) - Team R.E.A.C.H Black Panda
+- [Code4rena Juicebox Buyback Delegate contest](https://code4rena.com/contests/2022-07-juicebox-v2-contest#top)
 
 ## June 2023
 
-- [Sherlock Perennial contest](https://audits.sherlock.xyz/contests/79) - Team R.E.A.C.H Black Panda
-- [Sherlock RealWagmi contest](https://audits.sherlock.xyz/contests/88) - Team R.E.A.C.H Black Panda
-- [Guardian Audit PariFi contest]() - Team onlyOwners
+- [Sherlock Perennial contest](https://audits.sherlock.xyz/contests/79)
+- [Sherlock RealWagmi contest](https://audits.sherlock.xyz/contests/88)
+
+## July 2023
+
+- [Guardian Audit PariFi audit](https://github.com/GuardianAudits/DefenderAudits/blob/main/PariFi/onlyOwners_PariFiAudit.md)
+
+## August 2023
+
+- [AuditOne Zarban audit]()
 
 ## Achievements
 
@@ -21,7 +28,7 @@ This repo showcases my work experience as a web3 security research / smart contr
   - Secureum RACE 19: ranked 15th
 - Completed prestigious **CTFs**:
   - Flashbot MEV-Share CTF, all 10 challenges solved
-  - QuillCTF MetaToken Contest, 3nd place
+  - QuillCTF MetaToken contest, 3nd place
   - Ethernaut, all challenges solved
   - Damn Vulnerable DeFi
   - Capture the Ether, all challenges solved
@@ -31,8 +38,8 @@ This repo showcases my work experience as a web3 security research / smart contr
 
 ## Web2
 
-- Hold prestigious certifications such as OSCP and CRTO.
+- Hold prestigious certifications such as OSCP, CRTO, and CRTP.
 - Competed in numerous CTFs, ranked 2nd (CryptoHackers) in Crypto CTF 2021.
 - Have experience in different fields of security research: pwn, crypto, and web.
-- Developed game hacks for Pwn Adventure 3: Pwnie Island, AssaultCube, and CS:GO.
-- Fluent in Python, C, and C++.
+- Developed game hacks for Pwn Adventure 3: Pwnie Island and AssaultCube.
+- Fluent in Python and C.
