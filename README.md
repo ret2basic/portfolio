@@ -6,13 +6,14 @@ This repo showcases my work experience as a web3 security researcher. It include
 
 | Name | Findings Count | Platform | Report |
 |------|----------------|----------|--------|
-| Juicebox Buyback Delegate  | 1 MED | Code4rena  |   |
-| Perennial  | 1 MED | Sherlock  |   |
-| PariFi     | 1 CRITICAL, 3 HIGH, 13 MED | Guardian Audit | |
-| Wildcat    | 3 HIGH | Code4rena | |
-| Nextgen    | 4 HIGH, 4 MED | Code4rena | |
-| EthosX SWITCH | 1 CRITICAL, 3 MED | Secure3 | |
-| Magpie Radpie, esRDNT, OFT & CCIP Bridge | 1 MED | Secure3 | |
+| Juicebox Buyback Delegate  | 1 MED | Code4rena  | https://github.com/ret2basic/portfolio/blob/main/reports/Code4rena_Juicebox_Buyback_Delegate.md  |
+| Perennial  | 1 MED | Sherlock  | https://github.com/ret2basic/portfolio/blob/main/reports/Sherlock_Perennial.md  |
+| PariFi     | 1 CRITICAL, 3 HIGH, 13 MED | Guardian Audit | https://github.com/ret2basic/portfolio/blob/main/reports/Guardian_PariFi.md |
+| Venus Prime | 1 HIGH | Code4rena | https://github.com/ret2basic/portfolio/blob/main/reports/Code4rena_Venus_Prime.md |
+| Wildcat    | 3 HIGH | Code4rena | https://github.com/ret2basic/portfolio/blob/main/reports/Code4rena_Wildcat.md |
+| Nextgen    | 4 HIGH, 4 MED | Code4rena | https://github.com/ret2basic/portfolio/blob/main/reports/Code4rena_Nextgen.md |
+| EthosX SWITCH | 1 CRITICAL, 3 MED | Secure3 | https://github.com/ret2basic/portfolio/blob/main/reports/Secure3_EthosX_SWITCH.md |
+| Magpie Radpie, esRDNT, OFT & CCIP Bridge | 1 MED | Secure3 | https://github.com/ret2basic/portfolio/blob/main/reports/Secure3_Magpie_Radpie.md |
 
 **Note:**
 
@@ -22,22 +23,15 @@ This repo showcases my work experience as a web3 security researcher. It include
 
 # CTF rankings
 
-| CTF  | Year   | Ranking     | Writeup |
-|---------|-------------|
-| Paradigm CTF | 2023 | | |
+| CTF  | Year   | Ranking | Writeup |
+|------|--------| --------| ------- |
+| Paradigm CTF | 2023 | 11th | |
 | BlazCTF | 2023 | 4th | |
 | Flashbot MEV-Share CTF | 2023 | All challs solved | https://web3-security.notion.site/Flashbot-MEV-Share-CTF-aa05c257c3694bd69e3555358b709b29 |
 | QuillCTF MetaToken Contest | 2023 | | |
 | Ethernaut | | All challs solved | |
 | Damn Vulnerable DeFi | | All challs solved | |
 | Capture the Ether | | All challs solved | |
-
-- Completed prestigious **CTFs**:
-  - Flashbot MEV-Share CTF, all 10 challenges solved
-  - QuillCTF MetaToken contest, 3nd place
-  - Ethernaut, all challenges solved
-  - Damn Vulnerable DeFi
-  - Capture the Ether, all challenges solved
 
 # Secureum RACE rankings
 
