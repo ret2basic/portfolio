@@ -28,7 +28,7 @@ This repo showcases my work experience as a web3 security researcher. It include
 | Paradigm CTF | 2023 | 11th | |
 | BlazCTF | 2023 | 4th | |
 | Flashbot MEV-Share CTF | 2023 | All challs solved | https://web3-security.notion.site/Flashbot-MEV-Share-CTF-aa05c257c3694bd69e3555358b709b29 |
-| QuillCTF MetaToken Contest | 2023 | | |
+| QuillCTF MetaToken Contest | 2023 | 3rd | |
 | Ethernaut | | All challs solved | |
 | Damn Vulnerable DeFi | | All challs solved | |
 | Capture the Ether | | All challs solved | |
