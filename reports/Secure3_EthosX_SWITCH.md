@@ -8,7 +8,7 @@
 | M |  Medium risk | Unexpected behavior |
 | L  | Low risk | Potentially a risk |
 
-| Total Found Issues | 8 |
+| Total Found Issues | 4 |
 |:--:|:--:|
 
 # Findings Summary
@@ -30,7 +30,7 @@ An attacker can sandwich the first depositor of the vault and steal depositor's 
 
 #### Vulnerability Detail
 
-In `Vault.mint()`, the first depositor's mint() call goes into the following if block:
+In `Vault.mint()`, the first depositor's `mint()` call goes into the following if block:
 
 ```solidity
             if (overall_total_deposit_shares_ == 0) {
